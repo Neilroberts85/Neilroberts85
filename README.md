@@ -4,7 +4,8 @@
 
 ### Hi there 👋
 
-![Untitled design](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/fa876d7c-00ac-4b66-ae7b-76841f9b818f)
+![Untitled design](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/79d327bf-ffdf-4b39-bf31-9fcd33758e3a)
+
 
 
 <!--
