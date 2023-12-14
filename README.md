@@ -12,12 +12,23 @@ Junior Software Developer
 
 ### Languages
 
-<img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java&logoColor=blue&style=ShieldStyle" />  <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&style=ShieldStyle" /> <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript&logoColor=black&style=ShieldStyle" />
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Technologies Used
 
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=ShieldStyle" /> <img alt="Express" src="https://img.shields.io/badge/Express-yellow?logo=express&logoColor=black&style=ShieldStyle" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-white?logo=flask&logoColor=61DAFB&style=ShieldStyle" /> <img alt="Html" src="https://img.shields.io/badge/HTML-red?logo=html5&logoColor=black&style=ShieldStyle" /> <img alt="css" src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=black&style=ShieldStyle" /> <img alt="mondodb" src="https://img.shields.io/badge/MongoDB-lime?logo=mongodb&logoColor=black&style=ShieldStyle" /> <img alt="sql" src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=black&style=ShieldStyle" /> <img alt="spring" src="https://img.shields.io/badge/Spring-lime?logo=spring&logoColor=black&style=ShieldStyle" />
-
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
                     
