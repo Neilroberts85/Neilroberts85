@@ -51,7 +51,7 @@ Junior Software Developer
 </picture>
 </a></p>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="[https://camo.githubusercontent.com/9ea9908add5b57a6bb93379565274032172b17fe4bec9a7648532080ddc0fcab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f676973743f69643d6262666365333165303231376133363839633864393631613335366362313064](https://github.com/Chlebab/Final_Project)"><img src="https://camo.githubusercontent.com/9ea9908add5b57a6bb93379565274032172b17fe4bec9a7648532080ddc0fcab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f676973743f69643d6262666365333165303231376133363839633864393631613335366362313064" alt="Gist Card" data-canonical-src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Chlebab/Final_Project"><img src="https://camo.githubusercontent.com/9ea9908add5b57a6bb93379565274032172b17fe4bec9a7648532080ddc0fcab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f676973743f69643d6262666365333165303231376133363839633864393631613335366362313064" alt="Gist Card" data-canonical-src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d" style="max-width: 100%;">
 </a>
 
 
