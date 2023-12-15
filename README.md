@@ -4,11 +4,15 @@ Hi there, I'm Neil
 Junior Software Developer based around Edinburgh
 -------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilroberts85&layout=compact)
+<a href="https://www.linkedin.com/in/neil-roberts-7b3a85286/" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</picture>
+</a>
 
-*   🌍  I'm based in the Edinburgh Area
 ### Skills 
-
 ### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,43 +35,35 @@ Junior Software Developer based around Edinburgh
 
 
 
-                    
-### Socials
+    
                   
-                  
-<p align="left">
-<a href="https://www.github.com/neilroberts85" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
-</a>
-  <a href="https://www.linkedin.com/in/neil-roberts-7b3a85286/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</picture>
-</a></p>
 
 
+### Selected Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=RecipeFlix)](https://github.com/Neilroberts85/RecipeFlix)
 
+![Untitled design](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/79d327bf-ffdf-4b39-bf31-9fcd33758e3a)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=Final_Project)](https://github.com/Neilroberts85/Final_project)
 
+Play the Game! <a href="https://neilrobert85.itch.io/fdb"/>Egg Goblin' Goblins</a><br/><br/><br/>
+
+![Untitled design (1)](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/8ece5f39-f536-4e98-bfb6-7e08e66fbe5b)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=RecipeFlix)](https://github.com/Neilroberts85/RecipeFlix)
+<br/><br/><br/>
+
+![Untitled design (2)](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/c4caa97e-6e10-4fb0-9c39-73a559c049ec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=takeaway&bg_color=0a0a0a&text_color=ffffff&icon_color=173c80)](https://github.com/Neilroberts85/takeaway)
 
 
 
 
-![Untitled design](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/79d327bf-ffdf-4b39-bf31-9fcd33758e3a)
-![Final Project](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/d88e340c-be12-45ea-a541-36580137a7eb)
 
-Play the Game! <a href="https://neilrobert85.itch.io/fdb"/>Egg Goblin' Goblins</a>
 
-![Untitled design (1)](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/8ece5f39-f536-4e98-bfb6-7e08e66fbe5b)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilroberts85&layout=compact)
 
 
 
