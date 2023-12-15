@@ -57,7 +57,7 @@ Junior Software Developer based around Edinburgh
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=Final_Project)](https://github.com/Neilroberts85/Final_project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=takeaway&bg_color=0a0a0a)](https://github.com/Neilroberts85/takeaway)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=takeaway&bg_color=0a0a0a&text_color=ffffff&icon_color=173c80)](https://github.com/Neilroberts85/takeaway)
 
 
 
