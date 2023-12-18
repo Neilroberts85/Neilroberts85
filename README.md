@@ -52,7 +52,7 @@ Play the Game! <a href="https://neilrobert85.itch.io/fdb"/>Egg Goblin' Goblins</
 <br/><br/><br/>
 
 ![Untitled design (2)](https://github.com/Neilroberts85/Neilroberts85/assets/139916993/c4caa97e-6e10-4fb0-9c39-73a559c049ec)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=takeaway&bg_color=0a0a0a&text_color=ffffff&icon_color=173c80&card_height=274)](https://github.com/Neilroberts85/takeaway)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neilroberts85&repo=takeaway&bg_color=0a0a0a&text_color=ffffff&icon_color=173c80&card_height=1000)](https://github.com/Neilroberts85/takeaway)
 
 
 
